@@ -1,0 +1,62 @@
+.navbar-light .navbar-nav .nav-link {
+  color: #497696;
+}
+
+.gradient-background {
+  background: linear-gradient(to bottom right, #EAEDFE, #fff);
+  margin: 0;
+  padding: 0;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.gradient-text {
+  background-image: linear-gradient(to right, #497696, #6B47D6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent; /* Hide the original text color */
+  font-size: 36px;
+}
+
+.ai-text-primary {
+  color: #083A5E;
+}
+
+.ai-text-nav {
+  color: #497696;
+}
+
+.ai-text-nav {
+  color: #497696;
+}
+
+p .ai-text-nav {
+  padding-left: 2rem;
+}
+
+.ai-button-gradient {
+  background-image: linear-gradient(to right, #497696, #6B47D6);
+  color: white;
+}
+
+.ai-btn {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.ai-button-primary {
+  border-color: #083A5E;
+  color: #083A5E;
+}
+
+.useCases-container {
+  background: rgb(232, 236, 255);
+  background: linear-gradient(166deg, rgb(202, 209, 247) 50%, rgb(249, 243, 243) 100%);
+}
+
+.usecases-card-border {
+  border-radius: 1.5rem;
+}/*# sourceMappingURL=ai.css.map */
